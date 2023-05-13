@@ -2,7 +2,7 @@
 
 [Devildyw-blog](https://devildyw.github.io/)
 ---
-<img src="https://ding-blog.oss-cn-chengdu.aliyuncs.com/images/abs6yl7ndibh6u3trwug01x26ah0737c.jpg" width="1000px">
+![abs6yl7ndibh6u3trwug01x26ah0737c](https://ding-blog.oss-cn-chengdu.aliyuncs.com/images/abs6yl7ndibh6u3trwug01x26ah0737c.jpg)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Devildyw&include_all_commits=true&count_private-true&custom_title=Devildyw'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
