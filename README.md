@@ -1,6 +1,7 @@
 # Hello I'm Devildyw! 
 
-[Devildyw-blog](https://devildyw.github.io/)
+[old-Devildyw-blog](https://devildyw.github.io/) 
+[new-Devildyw's Blog](https://blog.devildyw.top/)
 ---
 ![abs6yl7ndibh6u3trwug01x26ah0737c](https://ding-blog.oss-cn-chengdu.aliyuncs.com/images/abs6yl7ndibh6u3trwug01x26ah0737c.jpg)
 
